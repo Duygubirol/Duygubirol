@@ -10,7 +10,7 @@ to data driven decision-making.
 
 🔭 I am working on Machine Learning projects - application of Keras, NLTK, Pytorch, Transformers, Tensorflow.
 
-🌱 I am currently learning deploymenr with AWS.
+🌱 I am currently learning deployment with AWS.
 
 <!--
 **Duygubirol/Duygubirol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
