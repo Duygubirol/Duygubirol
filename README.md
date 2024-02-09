@@ -1,6 +1,6 @@
 ### Hi there, I am Duygu 👋
 
-I am a master's student in Project Managament and Data science in Berlin.
+I am a Data Scientist in Berlin.
 
 I am a solution-oriented design and business professional with a comprehensive background and experience in design, project and 
 application management in a broad spectrum of industries. Believes in multi-disciplinary approach to problem solving and optimization 
