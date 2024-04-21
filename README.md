@@ -1,7 +1,5 @@
 ### Hi there, I am Duygu 👋
 
-I am a Data Scientist based in Berlin.
-
 Hi! I’m a passionate Data Scientist dedicated to merging Design Thinking with Data Science to democratize Artificial Intelligence. With extensive experience in design, project, and application management across various industries, I advocate for a multi-disciplinary approach to problem-solving. My focus is on creating ethically responsible, technically advanced solutions that prioritize transparency, fairness, and inclusivity. I strive to lead in leveraging AI’s transformative power through hybrid methods that combine qualitative insights and quantitative data, delving into not just 'what' but also 'why'.
 
 
