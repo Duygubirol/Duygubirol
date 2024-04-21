@@ -2,11 +2,8 @@
 
 I am a Data Scientist based in Berlin.
 
-I am a solution-oriented design and business professional with a comprehensive background and experience in design, project and 
-application management in a broad spectrum of industries. Believes in multi-disciplinary approach to problem solving and optimization 
-through hybrid methods that combine qualitative and quantitative information with a focus not only on questions of ‘what?’ but also on the 
-reasons behind the data with a focus on questions of ‘why?’ Builds upon the combination of different methods that vary from design-thinking 
-to data driven decision-making.
+Hi! I’m a passionate Data Scientist dedicated to merging Design Thinking with Data Science to democratize Artificial Intelligence. With extensive experience in design, project, and application management across various industries, I advocate for a multi-disciplinary approach to problem-solving. My focus is on creating ethically responsible, technically advanced solutions that prioritize transparency, fairness, and inclusivity. I strive to lead in leveraging AI’s transformative power through hybrid methods that combine qualitative insights and quantitative data, delving into not just 'what' but also 'why'.
+
 
 🔭 I am working on Machine Learning projects - application of Keras, NLTK, Pytorch, Transformers, Tensorflow.
 
