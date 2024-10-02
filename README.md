@@ -5,7 +5,7 @@ Hi! I’m a passionate Data Scientist dedicated to merging Design Thinking with 
 
 🔭 I am working on Machine Learning projects - application of Keras, NLTK, Pytorch, Transformers, Tensorflow.
 
-🌱 I am currently learning deployment with AWS.
+
 
 <!--
 **Duygubirol/Duygubirol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
